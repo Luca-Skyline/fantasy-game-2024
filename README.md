@@ -20,7 +20,7 @@ Possible TSA Video Game entry for 2024 by Skyline High School.
 
 September: Basic Dev Assets are in manufacturing, including music, 3d models, and UI. A rough story outline and basic world/levels map of biomes is near completition. <br>
 October: Basic assets complete, specific ones in manufacturing. Basic storyline is complete with specific dialog and locations being fletched out. Unity project is underway with a rough world map.<br>
-Novemember: Basic menu navigation is complete and parts of the world are filled with assets. More specific assets still in development.<br>
+Novemeber: Basic menu navigation is complete and parts of the world are filled with assets. More specific assets still in development.<br>
 December: Storyline is taking shape within the project and assets are being upgraded.<br>
 January: World is continuing to be built and specific events such as boss fights are being produced.<br>
 February: Game has taken shape and small details such as audio and lighting are perfected. By mid-February we're in code-freeze and enter beta testing/debugging. Write up necassary documentation.<br>
