@@ -2,11 +2,11 @@
 Possible TSA Video Game entry for 2024 by Skyline High School.
 
 Current team members:
-- Luca DalCanto (Manager, Developer, Programmer, Sound Designer)
+- Luca DalCanto (Manager, Developer, Programmer, Sound Engineer)
 - Calvin Webb (Developer, Programmer, Animator, 3D Artist, Designer)
 - Jeffery Zou (Developer, Programmer,  Writer, Designer)
 - Connor Soelberg (Developer, GUI Designer, 2D Artist)
-- Micah Tien (Developer, Programmer)
+- Micah Tien (Developer, Programmer, Designer)
 
 Possible game ideas: (add to the list as we go)
 
