@@ -10,6 +10,7 @@ Possible TSA Video Game entry for 2024 by Skyline High School.
 
 ### Possible game ideas: (add to the list as we go)
 
+- Protagonist is a dragon who must discover who he is and find a new home in a world where dragons are going extinct. When all hope is lost, he discovers he wasn't the last dragon left and confronts the classic human "hero" that's been chasing him.
 - 3D game with Calvin as primary artists
 - Running map that connects the world with "levels" in contrasting biomes (or, you know, we could have open world which is 100x harder)
 - Level selection on globe
