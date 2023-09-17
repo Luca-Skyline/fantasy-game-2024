@@ -27,3 +27,5 @@ December: Storyline is taking shape within the project and assets are being upgr
 January: World is continuing to be built and specific events such as boss fights are being produced.<br>
 February: Game has taken shape and small details such as audio and lighting are perfected. By mid-February we're in code-freeze and enter beta testing/debugging. Write up necassary documentation.<br>
 Submit project early March.
+
+### To-do list:
