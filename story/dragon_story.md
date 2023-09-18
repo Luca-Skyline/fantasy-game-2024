@@ -7,23 +7,23 @@ A lost wyrmling must set out on a mighty adventure to escape the humans who dest
 
 _The Dragonscape_
 
-_From the embers of a one-fanged world_
-_Balance disturbed, a peace forgotten_
-_From the embers of a one-fanged world_
-_There will rise a new hope for Dragon kind_
+_From the embers of a one-fanged world_ <br>
+_Balance disturbed, a peace forgotten_ <br>
+_From the embers of a one-fanged world_ <br>
+_There will rise a new hope for Dragon kind_ <br>
 
-_The strongest of us and yet the weakest_
-_He will rise like a pheonix from the ash_
-_A thousand thousand dragons he will be_
-_Yet be mighty his roar will not_
+_The strongest of us and yet the weakest_ <br>
+_He will rise like a pheonix from the ash_ <br>
+_A thousand thousand dragons he will be_ <br>
+_Yet be mighty his roar will not_ <br>
 
-_From the smoldering ash of Dragonkind_
-_The Dragonscape will be forged a new_
-_Bahumut will be his name, the Protector_
-_The foundation of a new civilization he will build upon his mighty back_
+_From the smoldering ash of Dragonkind_ <br>
+_The Dragonscape will be forged a new_ <br>
+_Bahumut will be his name, the Protector_ <br>
+_The foundation of a new civilization he will build upon his mighty back_ <br>
 
-_From the embers of a one-fanged world_
-_Let a flicker of hope among Dragons be born_
+_From the embers of a one-fanged world_ <br>
+_Let a flicker of hope among Dragons be born_ <br>
 
 ### Beginning
 A young wyrmling named Yldra was sent out by his mother to gather _something_ and is on his way home. This is the opening scene - Yldra flying low above the **forest** biome. He then descends into his mother's "lair" / cave and enters. His mother is in there, bathing in the pool system that fills their cave (this is done to reduce the necassary modeling and animation for this character, as we can have a head poking out of the pool). However, there's some unexpected guests that followed Yldra - he must not have been quite careful enough when he was out and about.
