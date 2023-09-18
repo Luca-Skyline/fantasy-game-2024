@@ -12,24 +12,36 @@ _Balance disturbed, a peace forgotten_ <br>
 _From the embers of a one-fanged world_ <br>
 _There will rise a new hope for Dragon kind_ <br>
 
-_The strongest of us and yet the weakest_ <br>
+_The strongest of us and still the weakest_ <br>
 _He will rise like a pheonix from the ash_ <br>
 _A thousand thousand dragons he will be_ <br>
-_Yet be mighty his roar will not_ <br>
+_Though be mighty his roar will not_ <br>
 
 _From the smoldering ash of Dragonkind_ <br>
 _The Dragonscape will be forged a new_ <br>
 _Bahumut will be his name, the Protector_ <br>
-_The foundation of a new civilization he will build upon his mighty back_ <br>
+_The foundation of a new Dragonscape he will build upon his back_ <br>
 
 _From the embers of a one-fanged world_ <br>
 _Let a flicker of hope among Dragons be born_ <br>
 
 ### Beginning (about 2 minutes)
-A young wyrmling named Yldra was sent out by his mother to gather _something_ and is on his way home. This is the opening scene - Yldra flying low above the **forest** biome. He then descends into his mother's "lair" / cave and enters. His mother is in there, bathing in the pool system that fills their cave (this is done to reduce the necassary modeling and animation for this character, as we can have a head poking out of the pool). However, there's some unexpected guests that followed Yldra - he must not have been quite careful enough when he was out and about.
+A young wyrmling named Yldra was sent out by his mother to gather _something_ and is on his way home. This is the opening scene - Yldra flying low above the **forest** biome. He then descends into his mother's "lair" / cave and enters. His mother is in there, bathing in the pool system that fills their cave (this is done to reduce the necassary modeling and animation for this character, as we can have just a head poking out of the pool). However, there's some unexpected guests that followed Yldra - he must not have been quite careful enough when he was out and about.
 
-A hunting party of two dozen adventurers, ever thirsty for dragon treasure fill the chamber. Knowing that she must protect her son, his mother tells him "Go, Yldra! Get out through the back tunnel and fly to the **tallest peak in a world of a fire**. There's a friend there, and you'll be safe. I'll find you there." (a reference to the volcano biome (see below). On his way out of the cave though, he encounters a heroic adventurer from the land of men known named Stragnar Lightningmore. The player is given a short tutorial on their character as they enter combat with Stragnar but inevitably loses for the player has little in the way of the power or might. He is able to escape, but barely. He finds a place to hide nearby and waits to see his mother defeat the party, but agonizing roars are not a good a sign. Not long after the flashes of his mother's breath weapon subside, the band of adverturers emerge from the cave and he flies off into the night, filled with grief and hoping the injury on his wing does not worsen.
+A hunting party of two dozen adventurers, ever thirsty for dragon treasure come running through the entry passage, their shadows dancing on the chamber wall. Knowing that she must protect her son, his mother tells him "Go, Yldra! Get out through the back tunnel and fly to the **tallest peak in a land of fire**. There's a friend there, and you'll be safe. I'll find you there." (a reference to the volcano biome (see below)). On his way out of the cave though, he encounters a heroic adventurer from the land of men known named Stragnar Lightningmore. The player is given a short tutorial on their character as they enter combat with Stragnar but inevitably loses for the player has little in the way of the power or might. He is able to escape, but barely. He finds a place to hide nearby and waits to see his mother defeat the party, but agonizing roars are not a good a sign. Not long after the flashes of his mother's breath weapon subside, the band of adverturers emerge from the cave and he flies off into the night, filled with grief and hoping the injury on his wing does not worsen.
 
 ### Biomes
+
+Forest:
+
+Grasslands:
+
+Human Empire:
+
+Volcano:
+
+Mountains:
+
+
 
 ### Ending
