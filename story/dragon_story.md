@@ -12,24 +12,47 @@ A hunting party of two dozen adventurers, ever thirsty for dragon treasure come 
 
 Every corner of the world was once inhabited by its own "breed" of dragon. Each of the different dragons possessed different powers. For instance, the red dragons had the power of fire and were the mightiest of dragons, as well as the most agreeable and peaceful. The dragons preferred to distance each other from those of other types. Because of their innate ties to nature, the very presence of a dragon would reform the environment within a certain radius of its lair and therefore the world took on a number of flavors and contrasting biomes called the Dragonscape. There are dark days ahead though, and the humans are evolving quickly. Nature - the Dragonscape itself - and its symbiotic relationship with the dragons is being poisoned and destroyed. Plus, for the first time ever, humans stand a chance at destroying the dragons like they've done for so many species before. New technology, new magic, and worst of all a newfound ambition for dragon treasure are all driving the humans to be more ambitous than ever.
 
-Forest: <br>
+#### Forest:
 This is the biome where the game starts, and also the ending one. At the beginning of the game this is a lush green forest, beatiful but also dangerous. It's a land sacred to the Dragons that is owned and protetected by the Purple dragons. The purple dragons are often forgotten, as they possess no elemental breath weapon like the other species. Instead, purple dragons are known for their incredible roar and their valuable adamantine horns. They are known to be the weakest of dragons, and survive primarily by being hidden and working in groups. Purple dragons are the ones you'd most commonly see interacting with dragons of other colors as well.
 
-Though it may start as a lush green forest, by the end of the game its from that. When you return home at the end, the forest is dead and withering. Without a protector or 
+Though it may start as a lush green forest, by the end of the game its from that. When you return home at the end, the forest is dead and withering. Without Dragon protectors to look after it, it seems the humans are killing the world.
 
-Grasslands: <br>
-Home to the Green dragons of poison. Green dragons are the greedy, witty, and stealthy ones who value treasure the most of any dragon. They are burrowers who make their lairs deep underground and love setting traps and puzzles to get inside.
+Forest Encounters/locations:
+- Opening scene and tutorial
+- 1st boss fight with a larger predator (mostly a doding to puzzle to escape while injured)
+- 1st health buff and XP (no breath weapon yet!), allows wing to heal and dragon to leave forest biome
+- At least one party of wilderness travelers
+- more to come
+- Closing scene after rest of biomes are explored
+
+Adjacent biomes:
+- Tundra
+- Grasslands
+- Human Empire
+
+#### Grasslands:
+Home to the Green dragons of poison. Green dragons are the greedy, witty, and stealthy ones who value treasure the most of any dragon. They are burrowers who make their lairs deep underground and love setting traps and puzzles to get inside. The ancient green dragon who once dwelled here was named Throrn. He was killed by the humans, but his lair is still there and within it his immortal dragon soul. 
+
+Grasslands Encounters/locations:
+- Mysterious puzzle engraving that covers the grasslands (grants XP)
+- Traveling party of soldiers (combat!)
+- Wizard tower
+  - Can recieve lore and foreshadowing
+  - Fun combat or possibly some puzzling/skill playing
+- Green dragon lair
+  - Boss fight with _something_. Probably a burrowing creature or even the mage from the tower.
+  - Recieves poison breath weapon (a piece of wisom handed down from Attor) and massive health buff
 
 Human Empire:
-
-
-
-Volcano:
-Home to the Red dragons of fire. They are the noble dragons, the most powerful. They are the most removed from other dragons, very secluded and therefore have become the most mythical and mysterious dragons in the eyes of the humans.
 
 Mountains:
 Home to the Blue dragons of lightning. Blue dragons are brutes. They love flying, they love lightning, and what they lack in intelligence is made up in strength.
 
+Tundra:
+Home to the White dragons of ice. White dragons are cold and straight-to-the-point, they're highly religous and prophetic, and they've got a 
+
+Volcano:
+Home to the Red dragons of fire. They are the noble dragons, the most powerful. They are the most removed from other dragons, very secluded and therefore have become the most mythical and mysterious dragons in the eyes of the humans. Because humans fear what they don't know, Red dragons are usually regarded as evil, torturous, and brooding in their homes where rivers flow with lava. This, however, was not exactly the case. The ancient dragon ancestor who lived here was named Throrn.  
 
 
 ### Inner-game Lore
