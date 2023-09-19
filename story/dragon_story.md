@@ -15,6 +15,8 @@ Every corner of the world was once inhabited by its own "breed" of dragon. Each 
 Forest: <br>
 This is the biome where the game starts, and also the ending one. At the beginning of the game this is a lush green forest, beatiful but also dangerous. It's a land sacred to the Dragons that is owned and protetected by the Purple dragons. The purple dragons are often forgotten, as they possess no elemental breath weapon like the other species. Instead, purple dragons are known for their incredible roar and their valuable adamantine horns. They are known to be the weakest of dragons, and survive primarily by being hidden and working in groups. Purple dragons are the ones you'd most commonly see interacting with dragons of other colors as well.
 
+Though it may start as a lush green forest, by the end of the game its from that. When you return home at the end, the forest is dead and withering. Without a protector or 
+
 Grasslands: <br>
 Home to the Green dragons of poison. Green dragons are the greedy, witty, and stealthy ones who value treasure the most of any dragon. They are burrowers who make their lairs deep underground and love setting traps and puzzles to get inside.
 
