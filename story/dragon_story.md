@@ -45,14 +45,17 @@ Grasslands Encounters/locations:
 
 #### Human Empire:
 
+
 ##### Mountains:
 Home to the Blue dragons of lightning. Blue dragons are brutes. They love flying, they love lightning, and what they lack in intelligence is made up in strength.
 
 #### Tundra:
-Home to the White dragons of ice. White dragons are cold and straight-to-the-point, they're highly religous and prophetic, and they've got a 
+Home to the White dragons of ice. White dragons are cold and straight-to-the-point, they're highly religous and prophetic, and they've got a knack for saying a lot while saying nothing at all.
 
 #### Volcano:
 Home to the Red dragons of fire. They are the noble dragons, the most powerful. They are the most removed from other dragons, very secluded and therefore have become the most mythical and mysterious dragons in the eyes of the humans. Because humans fear what they don't know, Red dragons are usually regarded as evil, torturous, and brooding in their homes where rivers flow with lava. This, however, was not exactly the case. The ancient dragon ancestor who lived here was named Throrn.  
+
+#### Clouds:
 
 
 ### Inner-game Lore
