@@ -1,6 +1,6 @@
 # Dragon Story Arc and Mechanics
 
-## Idea 1: Dragonscape Chronicles (to be renamed)
+## Idea 1: Draconis Ignem
 A lost wyrmling must set out on a mighty adventure to escape the humans who destroyed his home and threaten all of Dragon kind. Along the way he faces a number of challenges that allow him to discover new abilities, giving him a fighting chance at survival in the frightening new world. Along the way he's reminded time and again the blind cruelty of the humans who can't seem to look past our poor Dragon's outer self, and at his lowest point finds he may be the only dragon left in all the world. With his loss of childlike innocence comes a loss of his childhood, and by the end of the game he's taking flight no longer as a wyrmling but instead as the fabled Bahamut, a mythical hero fabled to restore dragon kind.
 
 ### Beginning (about 2 minutes)
