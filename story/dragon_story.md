@@ -46,14 +46,23 @@ Grasslands Encounters/locations:
 #### Human Empire:
 
 
-##### Mountains:
+#### Mountains:
 Home to the Blue dragons of lightning. Blue dragons are brutes. They love flying, they love lightning, and what they lack in intelligence is made up in strength.
 
 #### Tundra:
-Home to the White dragons of ice. White dragons are cold and straight-to-the-point, they're highly religous and prophetic, and they've got a knack for saying a lot while saying nothing at all.
+Home to the White dragons of ice. White dragons are cold and dark, they're highly religous and prophetic, and they've got a knack for saying a lot while saying nothing at all. The ancient dragon ancestor who lived here was named Frost. He was killed by the humans, but his lair is still there and within it his immortal dragon soul. 
+
+Tundra enounters/locations:
+- Long journeys and paths with natural enemies and dead ends (as well as mysterious lore written in places)
+- Human outposts, at high elevations, that launch rocks at him.
+- Haunted ghost colony
+- Psuedodragon colony (off-bread small dragon humanoids) that is suffering at the hands of the humans and must be saved/relocated to a nearby location
+- White dragon lair
+  - Descending dungeon getting colder and colder, darker and darker
+  - Boss fight with a blind ice creature that uses 
 
 #### Volcano:
-Home to the Red dragons of fire. They are the noble dragons, the most powerful. They are the most removed from other dragons, very secluded and therefore have become the most mythical and mysterious dragons in the eyes of the humans. Because humans fear what they don't know, Red dragons are usually regarded as evil, torturous, and brooding in their homes where rivers flow with lava. This, however, was not exactly the case. The ancient dragon ancestor who lived here was named Throrn.  
+Home to the Red dragons of fire. They are the noble dragons, the most powerful. They are the most removed from other dragons, very secluded and therefore have become the most mythical and mysterious dragons in the eyes of the humans. Because humans fear what they don't know, Red dragons are usually regarded as evil, torturous, and brooding in their homes where rivers flow with lava. This, however, was not the case. The ancient dragon ancestor who lived here was named Rethlox.  
 
 #### Clouds:
 
