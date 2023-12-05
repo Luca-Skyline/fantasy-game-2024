@@ -3,11 +3,6 @@
 Synopsis:
 A lost wyrmling must set out on a mighty adventure to escape the humans who destroyed his home and threaten all of Dragon kind. Along the way he faces a number of challenges that allow him to discover new abilities, giving him a fighting chance at survival in the frightening new world. Along the way he's reminded time and again the blind cruelty of the humans who can't seem to look past our poor Dragon's outer self, and at his lowest point finds he may be the only dragon left in all the world. With his loss of childlike innocence comes a newfound adulthood, and by the end of the game he's taking flight no longer as a wyrmling but instead as the fabled Bahamut, a mythical hero fabled to restore dragon kind.
 
-### Beginning (about 2 minutes)
-A young wyrmling named Yldra was sent out by his mother to gather Willow for dinner (the purple dragons are omniverous) and is on his way home. This is the opening scene - Yldra flying low above the **forest** biome. He then descends into his mother's "lair" / cave and enters. His mother is in there, and welcomes him home from a neaby chamber, telling him to lay out the willow trees to dry. However, there's some unexpected guests that followed Yldra - he must not have been quite careful enough when he was out and about.
-
-A hunting party of two dozen adventurers, ever thirsty for dragon treasure come running through the entry passage, flooding the room and surrounding the dragons, making unintelligble jests in the human language. Yldra knows enough, though, to know they're not getting out of there alive. Knowing that she must protect her son, his mother tells him "Go, Yldra! Get out through the back tunnel and fly to the **tallest peak in a land of fire**. There's a friend there, and you'll be safe. I'll find you there." (a reference to the volcano biome (see below)). On his way out of the cave though, he encounters a heroic adventurer from the land of men named Stragnar Lightningmore. The player is given a short tutorial on their character as they enter combat with Stragnar but inevitably loses for the player has little in the way of the power or might. He is able to escape, but barely. He finds a place to hide nearby and waits to see his mother defeat the party, but agonizing roars are not a good a sign. Not long after the flashes of his mother's breath weapon subside, the band of adverturers emerge from the cave, before fleeing into the forest. The wound on his wing means he can't fly, so he must navigate the forest on foot.
-
 ## Biomes
 
 Every corner of the world was once inhabited by its own "breed" of dragon. Each of the different dragons possessed different powers. For instance, the red dragons had the power of fire and were the mightiest of dragons, as well as the most agreeable and peaceful. The dragons preferred to distance each other from those of other types. Because of their innate ties to nature, the very presence of a dragon would reform the environment within a certain radius of its lair and therefore the world took on a number of flavors and contrasting biomes called the Dragonscape. There are dark days ahead though, and the humans are evolving quickly. Nature - the Dragonscape itself - and its symbiotic relationship with the dragons is being poisoned and destroyed. Plus, for the first time ever, humans stand a chance at destroying the dragons like they've done for so many species before. New technology, new magic, and worst of all a newfound ambition for dragon treasure are all driving the humans to be more ambitous than ever.
@@ -42,9 +37,21 @@ Grasslands Encounters/locations:
 - Green dragon lair
   - Boss fight with mummified mage from the tower.
   - Recieves poison breath weapon (a piece of wisom handed down from Thorn) and massive health buff
+ 
+Adjacent Biomes:
+- Forest
+- Mountains
+- Gulf
+- Tundra
+- Human Empire
 
 #### Human Empire:
 Completely walled off on all sides and protected by guards, this empire stands as an imposing threat. Though the player may chose to launch an attack on the empire at any point, this ultimately ends in defeat. The point of the Human Empire is basically to emphasize the superiority of the human race over individual dragons.
+
+Adjacent Biomes:
+- Tundra
+- Forest
+- Grasslands
 
 #### Mountains:
 Home to the Blue dragons of lightning. Blue dragons are brutes. They love flying, they love lightning, and what they lack in intelligence is made up in strength. The mountains are filled with a mist, making it hard to see far ahead. They're also filled with dangers lurking around every corner (lots of combat here). The ancient blue dragon who once dwelled here was named Kintravran. She was killed by the humans, but her lair is still there and within it her immortal dragon soul. 
@@ -56,6 +63,11 @@ Mountain Encounters/locations:
 - Blue Dragon Lair
   - Boss fight with beast of Calvin's choice
   - Recieves lightning breath weapon (a piece of wisdom handed down from Kintravran) and massive health buff
+ 
+Adjacent Biomes:
+- Gulf
+- Grasslands
+- Volcano
 
 #### Tundra:
 Home to the White dragons of ice. White dragons are cold and dark, they're highly religous and prophetic, and they've got a knack for saying a lot while saying nothing at all. The ancient dragon ancestor who lived here was named Frostfang. He was killed by the humans, but his lair is still there and within it his immortal dragon soul. 
@@ -70,12 +82,35 @@ Tundra enounters/locations:
   - Boss fight with a blind ice creature that uses vibrations in the ground to locate and attack Yldra
   - Recieves ice breath weapon (a piece of wisdom handed down from Frostfang) and massive health buff
  
- #### Volcano:
+Adjacent Biomes:
+- Forest
+- Human Empire
+- Grasslands
+- Gulf
+
+#### Gulf:
+Home to the Sea dragons of steam. Sea dragons seem very foreign, even to other dragons, and also considered to be quite optimistic as well as intelligent about the ways of the world. They're quite reserved, however, and absolutely love the taste of wood. The ancient dragon ancestor who lived here was named Bakunawa.
+
+Gulf enounters/locations:
+- Must use good timing to avoid the tides
+- Sea dragon lair
+  - Boss fight with swimming creature that pops out of numerous water holes (actually tubes connected to the ocean) in the ground and attacks
+  - Recieves steam breath weapon (a piece of widom handed down from Bakunawa) and massive health buff
+ 
+Adjacent Biomes:
+- Grasslands
+- Mountains
+- Tundra
 
 #### Volcano:
 Home to the Red dragons of fire. They are the noble dragons, the most powerful. They are the most removed from other dragons, very secluded and therefore have become the most mythical and mysterious dragons in the eyes of the humans. Because humans fear what they don't know, Red dragons are usually regarded as evil, torturous, and brooding in their homes where rivers flow with lava. This, however, was not the case. The ancient dragon ancestor who lived here was named Rethlox.  
 
-#### Clouds:
+Volcano enounters/locations:
+- Must climb the side of the volcano (not very hard) while avoiding falling rocks and debris that the volcano is spewing out (quite hard)
+- When reach top of volcano, beginning of the END sequence
+ 
+Adjacent Biomes:
+- Mountains
 
 
 ### Inner-game Lore
@@ -100,4 +135,9 @@ _The foundation of a new Dragonscape he will build upon his back_ <br>
 _From the embers of a one-fanged world_ <br>
 _Let a flicker of hope among Dragons be born_ <br>
 
-### Ending
+## Events and Interactions
+
+### Beginning (about 2 minutes)
+A young wyrmling named Yldra was sent out by his mother to gather Willow for dinner (the purple dragons are omniverous) and is on his way home. This is the opening scene - Yldra flying low above the **forest** biome. He then descends into his mother's "lair" / cave and enters. His mother is in there, and welcomes him home from a neaby chamber, telling him to lay out the willow trees to dry. However, there's some unexpected guests that followed Yldra - he must not have been quite careful enough when he was out and about.
+
+A hunting party of two dozen adventurers, ever thirsty for dragon treasure come running through the entry passage, flooding the room and surrounding the dragons, making unintelligble jests in the human language. Yldra knows enough, though, to know they're not getting out of there alive. Knowing that she must protect her son, his mother tells him "Go, Yldra! Get out through the back tunnel and fly to the **tallest peak in a land of fire**. There's a friend there, and you'll be safe. I'll find you there." (a reference to the volcano biome (see below)). On his way out of the cave though, he encounters a heroic adventurer from the land of men named Stragnar Lightningmore. The player is given a short tutorial on their character as they enter combat with Stragnar but inevitably loses for the player has little in the way of the power or might. He is able to escape, but barely. He finds a place to hide nearby and waits to see his mother defeat the party, but agonizing roars are not a good a sign. Not long after the flashes of his mother's breath weapon subside, the band of adverturers emerge from the cave, before fleeing into the forest. The wound on his wing means he can't fly, so he must navigate the forest on foot.
