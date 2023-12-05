@@ -9,6 +9,9 @@ Possible TSA Video Game entry for 2024 by Skyline High School.
 - Connor Soelberg (Developer, GUI Designer, 2D Artist)
 - Micah Tien (Developer, Programmer, Designer)
 
+Teacher Voice Acting: (big maybe??)
+Chris Krueger, Gunderson, Kapptie, Bucaria, Larson, Lambert, Ardi, Anderson, Dalley???, Victoria Hatton, Coach Kenny, Thackeray, Yamazaki????
+
 ### Game Concept: A Dragon Child in a Cruel World
 A lost dragon wyrmling must set out on a mighty adventure to escape the humans who destroyed his home and threaten all of Dragon kind. Along the way he faces a number of challenges that allow him to discover new abilities, giving him a fighting chance at survival in the frightening new world. Along the way he's reminded time and again the blind cruelty of the humans who can't seem to look past our poor Dragon's outer self, and at his lowest point finds he may be the only dragon left in all the world. With his loss of childlike innocence comes a newfound adulthood, and by the end of the game he's taking flight no longer as a wyrmling but instead as the fabled Bahamut, a mythical hero fabled to restore dragon kind.
 
