@@ -124,7 +124,7 @@ _There will rise a new hope for Dragon kind_ <br>
 
 _The strongest of us and still the weakest_ <br>
 _He will rise like a pheonix from the ash_ <br>
-_A thousand thousand dragons he will be_ <br>
+_A thousand thousand dragons_ <br>
 _Though be mighty his roar will not_ <br>
 
 _From the smoldering ash of Dragonkind_ <br>
@@ -133,7 +133,7 @@ _Bahumut will be his name, the Protector_ <br>
 _The foundation of a new Dragonscape he will build upon his back_ <br>
 
 _From the embers of a one-fanged world_ <br>
-_Let a flicker of hope among Dragons be born_ <br>
+_Let a flicker of hope amongst Dragons be born_ <br>
 
 ## Events and Interactions
 
