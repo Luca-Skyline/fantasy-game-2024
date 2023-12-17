@@ -1,5 +1,13 @@
-# Draconis Ignem
+# Dragon Game
 Possible TSA Video Game entry for 2024 by Skyline High School.
+- Flameborne Legacy
+- Bahamut's Rising
+- Dragonheart Chronicles
+- The Desolation of Smog
+- Dragonscape Chronicles
+- Lost Fire
+- Into the Dragonscape
+- Desolation
 
 ### Current team members:
 - Luca DalCanto (Developer, Programmer, Sound Engineer, Writer, Designer)
