@@ -117,23 +117,23 @@ Adjacent Biomes:
 
 > _One-Fanged World_
 >
-_From the embers of a one-fanged world_ <br>
-_Balance disturbed, a peace forgotten_ <br>
-_From Desolation_ <br>
-_There will rise a new hope for Dragon kind_ <br>
+>_From the embers of a one-fanged world_ <br>
+>_Balance disturbed, a peace forgotten_ <br>
+>_From Desolation_ <br>
+>_There will rise a new hope for Dragon kind_ <br>
 > 
-_The strongest of us and still the weakest_ <br>
-_Will rise like a pheonix from the ash_ <br>
-_A thousand thousand dragons_ <br>
-_With the roar of a yet a child_ <br>
+>_The strongest of us and still the weakest_ <br>
+>_Will rise like a pheonix from the ash_ <br>
+>_A thousand thousand dragons_ <br>
+>_With the roar of a yet a child_ <br>
 >
-_From the smoldering ash of Dragonkind_ <br>
-_The Dragonscape will be forged a new_ <br>
-_Bahumut, the Protector, a Foundation_ <br>
-_A new Hearth built upon Their back_ <br>
+>_From the smoldering ash of Dragonkind_ <br>
+>_The Dragonscape will be forged a new_ <br>
+>_Bahumut, the Protector, a Foundation_ <br>
+>_A new Hearth built upon Their back_ <br>
 >
-_From the embers of a one-fanged world_ <br>
-_Let a flicker of hope amongst Dragons be born_ <br>
+>_From the embers of a one-fanged world_ <br>
+>_Let a flicker of hope amongst Dragons be born_ <br>
 
 ## Events and Interactions
 
