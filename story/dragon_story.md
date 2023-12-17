@@ -140,13 +140,14 @@ Adjacent Biomes:
 ### Beginning (about 2 minutes)
 A young wyrmling named Yldra was sent out by their mother to gather Willow for dinner (the purple dragons are omniverous) and is on their way home. This is the opening scene - Yldra flying low above the **forest** biome. They then descend into their mother's "lair" / cave and enters. Yldra's mother is sick, and bathing in a mud pool so that only her head is poking out. Her head lays, with no energy, on the edge of the pool.
 
-Mother, her mouth barely moving:
-> "Yldra... is that... you?"<br>
-> "Ah... Thank goodness, I was starting... to get worried... about you."
+
+
 Player options:
-- Are you okay?
-- Why are you in the mud pool?
 - 
+- 
+- Don't worry about me. I was very safe.
+
+Mother
 > 
 
 However, there's some unexpected guests that followed Yldra - he must not have been quite careful enough when he was out and about.
