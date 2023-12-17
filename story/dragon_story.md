@@ -1,4 +1,4 @@
-# Draconis Ignem, 2023-2024
+# Of Hearth and Desolation, 2023-2024
 
 Synopsis:
 A lost wyrmling must set out on a mighty adventure to escape the humans who destroyed his home and threaten all of Dragon kind. Along the way they face a number of challenges that allow them to discover new abilities, giving them a fighting chance at survival in the frightening new world. Along the way they're reminded time and again the blind cruelty of the humans who can't seem to look past our poor Dragon's outer self, and at their lowest point finds they may be the only dragon left in all the world. With their loss of childlike innocence comes a newfound adulthood, and by the end of the game they're taking flight no longer as a wyrmling but instead as the fabled Bahamut, a mythical hero fabled to restore dragon kind.
