@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net" modified="2023-12-17T23:50:46.347Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="N8JmIuzzw5gp63p9N9rV" version="22.1.11" type="github">
+  <diagram name="Page-1" id="f5Nv0KKbZ34fAr4vN8aR">
+    <mxGraphModel dx="1818" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k9jql_ZlCxSHMttC4ffV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T6d1qMiI7EXMLoJ8Z9sv-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9jql_ZlCxSHMttC4ffV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T6d1qMiI7EXMLoJ8Z9sv-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9jql_ZlCxSHMttC4ffV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T6d1qMiI7EXMLoJ8Z9sv-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T6d1qMiI7EXMLoJ8Z9sv-1" value="&lt;div&gt;Mother, her mouth barely moving:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;gt; Yldra... is that... you?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;gt; Ah... Thank goodness, I was starting... to get worried... about you.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="30" width="450" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k9jql_ZlCxSHMttC4ffV-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9jql_ZlCxSHMttC4ffV-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9jql_ZlCxSHMttC4ffV-10" value="Hey, are you okay?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k9jql_ZlCxSHMttC4ffV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9jql_ZlCxSHMttC4ffV-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9jql_ZlCxSHMttC4ffV-11" value="Why are you in the mud pool?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k9jql_ZlCxSHMttC4ffV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9jql_ZlCxSHMttC4ffV-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="455" y="335" />
+              <mxPoint x="501" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9jql_ZlCxSHMttC4ffV-12" value="Don&#39;t worry about me. I was very safe." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k9jql_ZlCxSHMttC4ffV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9jql_ZlCxSHMttC4ffV-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9jql_ZlCxSHMttC4ffV-17" value="&lt;div&gt;Mother:&lt;/div&gt;&lt;div&gt;Ah, Yldra... My illness... it has set in deeper. I&#39;m just... resting.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k9jql_ZlCxSHMttC4ffV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k9jql_ZlCxSHMttC4ffV-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k9jql_ZlCxSHMttC4ffV-19" value="&lt;div&gt;Mother:&lt;/div&gt;&lt;div&gt;Yes... yes I know. Thank you. Thank you... for doing this. I know... I should be... So... tired...&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k9jql_ZlCxSHMttC4ffV-22" value="&lt;div&gt;Mother:&lt;/div&gt;&lt;div&gt;Do you hear that?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="630" width="300" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
