@@ -1,7 +1,7 @@
 # Draconis Ignem, 2023-2024
 
 Synopsis:
-A lost wyrmling must set out on a mighty adventure to escape the humans who destroyed his home and threaten all of Dragon kind. Along the way he faces a number of challenges that allow him to discover new abilities, giving him a fighting chance at survival in the frightening new world. Along the way he's reminded time and again the blind cruelty of the humans who can't seem to look past our poor Dragon's outer self, and at his lowest point finds he may be the only dragon left in all the world. With his loss of childlike innocence comes a newfound adulthood, and by the end of the game he's taking flight no longer as a wyrmling but instead as the fabled Bahamut, a mythical hero fabled to restore dragon kind.
+A lost wyrmling must set out on a mighty adventure to escape the humans who destroyed his home and threaten all of Dragon kind. Along the way they face a number of challenges that allow them to discover new abilities, giving them a fighting chance at survival in the frightening new world. Along the way they're reminded time and again the blind cruelty of the humans who can't seem to look past our poor Dragon's outer self, and at their lowest point finds they may be the only dragon left in all the world. With their loss of childlike innocence comes a newfound adulthood, and by the end of the game they're taking flight no longer as a wyrmling but instead as the fabled Bahamut, a mythical hero fabled to restore dragon kind.
 
 ## Biomes
 
@@ -26,7 +26,7 @@ Adjacent biomes:
 - Human Empire
 
 #### Grasslands:
-Home to the Green dragons of poison. Green dragons are the greedy, witty, and stealthy ones who value treasure the most of any dragon. They are burrowers who make their lairs deep underground and love setting traps and puzzles to get inside. The ancient green dragon who once dwelled here was named Throrn. He was killed by the humans, but his lair is still there and within it his immortal dragon soul. 
+Home to the Green dragons of poison. Green dragons are the greedy, witty, and stealthy ones who value treasure the most of any dragon. They are burrowers who make their lairs deep underground and love setting traps and puzzles to get inside. The ancient green dragon who once dwelled here was named Throrn. They were killed by the humans, but their lair is still there and within it their immortal dragon soul. 
 
 Grasslands Encounters/locations:
 - Mysterious puzzle engraving that covers the grasslands (grants XP)
@@ -54,7 +54,7 @@ Adjacent Biomes:
 - Grasslands
 
 #### Mountains:
-Home to the Blue dragons of lightning. Blue dragons are brutes. They love flying, they love lightning, and what they lack in intelligence is made up in strength. The mountains are filled with a mist, making it hard to see far ahead. They're also filled with dangers lurking around every corner (lots of combat here). The ancient blue dragon who once dwelled here was named Kintravran. She was killed by the humans, but her lair is still there and within it her immortal dragon soul. 
+Home to the Blue dragons of lightning. Blue dragons are brutes. They love flying, they love lightning, and what they lack in intelligence is made up in strength. The mountains are filled with a mist, making it hard to see far ahead. They're also filled with dangers lurking around every corner (lots of combat here). The ancient blue dragon who once dwelled here was named Kintravran. They were killed by the humans, but their lair is still there and within it their immortal dragon soul. 
 
 Mountain Encounters/locations:
 - Lots of combat
@@ -70,11 +70,11 @@ Adjacent Biomes:
 - Volcano
 
 #### Tundra:
-Home to the White dragons of ice. White dragons are cold and dark, they're highly religous and prophetic, and they've got a knack for saying a lot while saying nothing at all. The ancient dragon ancestor who lived here was named Frostfang. He was killed by the humans, but his lair is still there and within it his immortal dragon soul. 
+Home to the White dragons of ice. White dragons are cold and dark, they're highly religous and prophetic, and they've got a knack for saying a lot while saying nothing at all. The ancient dragon ancestor who lived here was named Frostfang. They were killed by the humans, but tehir lair is still there and within it their immortal dragon soul. 
 
 Tundra enounters/locations:
 - Long journeys and paths with natural enemies and dead ends (as well as mysterious lore written in places)
-- Human outposts, at high elevations, that launch rocks at him.
+- Human outposts, at high elevations, that launch rocks at you.
 - Haunted ghost colony
 - Psuedodragon colony (off-bread small dragon humanoids) that is suffering at the hands of the humans and must be saved/relocated to a nearby location
 - White dragon lair
@@ -115,30 +115,37 @@ Adjacent Biomes:
 
 ### Inner-game Lore
 
-_The Dragonscape_
-
+> _One-Fanged World_
+>
 _From the embers of a one-fanged world_ <br>
 _Balance disturbed, a peace forgotten_ <br>
-_From the embers of a one-fanged world_ <br>
+_From Desolation_ <br>
 _There will rise a new hope for Dragon kind_ <br>
-
+> 
 _The strongest of us and still the weakest_ <br>
-_He will rise like a pheonix from the ash_ <br>
+_Will rise like a pheonix from the ash_ <br>
 _A thousand thousand dragons_ <br>
-_Though be mighty his roar will not_ <br>
-
+_With the roar of a yet a child_ <br>
+>
 _From the smoldering ash of Dragonkind_ <br>
 _The Dragonscape will be forged a new_ <br>
-_Bahumut will be his name, the Protector_ <br>
-_The foundation of a new Dragonscape he will build upon his back_ <br>
-
+_Bahumut, the Protector, a Foundation_ <br>
+_A new Hearth built upon Their back_ <br>
+>
 _From the embers of a one-fanged world_ <br>
 _Let a flicker of hope amongst Dragons be born_ <br>
 
 ## Events and Interactions
 
 ### Beginning (about 2 minutes)
-A young wyrmling named Yldra was sent out by his mother to gather Willow for dinner (the purple dragons are omniverous) and is on his way home. This is the opening scene - Yldra flying low above the **forest** biome. He then descends into his mother's "lair" / cave and enters. His mother is in there, and welcomes him home from a neaby chamber, telling him to lay out the willow trees to dry. However, there's some unexpected guests that followed Yldra - he must not have been quite careful enough when he was out and about.
+A young wyrmling named Yldra was sent out by their mother to gather Willow for dinner (the purple dragons are omniverous) and is on their way home. This is the opening scene - Yldra flying low above the **forest** biome. They then descend into their mother's "lair" / cave and enters. 
+
+Mother:
+> "Yldra is that you?"
+> "Thank goodness, I was starting to get worried about you. Lay out the willow trees to dry, will you darling?"
+> 
+
+However, there's some unexpected guests that followed Yldra - he must not have been quite careful enough when he was out and about.
 
 A hunting party of two dozen adventurers, ever thirsty for dragon treasure come running through the entry passage, flooding the room and surrounding the dragons, making unintelligble jests in the human language. Yldra knows enough, though, to know they're not getting out of there alive. Knowing that she must protect her son, his mother tells him:
 > "Go, Yldra! Get out through the back tunnel and fly to the **tallest peak in a land of fire**. There's a friend there, and you'll be safe. I'll find you there."
