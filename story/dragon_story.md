@@ -103,6 +103,8 @@ Adjacent Biomes:
 - Tundra
 
 #### Volcano:
+The volcano biome is known by the Dragons as the Eastern Hearth, while it's known by the humans as Desolation Mountain. 
+
 Home to the Red dragons of fire. They are the noble dragons, the most powerful. They are the most removed from other dragons, very secluded and therefore have become the most mythical and mysterious dragons in the eyes of the humans. Because humans fear what they don't know, Red dragons are usually regarded as evil, torturous, and brooding in their homes where rivers flow with lava. This, however, was not the case. The ancient dragon ancestor who lived here was named Rethlox.  
 
 Volcano enounters/locations:
@@ -137,14 +139,20 @@ Adjacent Biomes:
 
 ## Events and Interactions
 
-### Beginning (about 2 minutes)
-A young wyrmling named Yldra was sent out by their mother to gather Willow for dinner (the purple dragons are omniverous) and is on their way home. This is the opening scene - Yldra flying low above the **forest** biome. They then descend into their mother's "lair" / cave and enters. Yldra's mother is sick, and bathing in a mud pool so that only her head is poking out. Her head lays, with no energy, on the edge of the pool.
+### Introduction
+A young wyrmling named Yldra was sent out by their mother to gather Willow for dinner (the purple dragons are omniverous) and is on their way home. This is the opening scene - Yldra flying low above the **forest** biome. They then descend into their mother's "lair" / cave and enters. Yldra's mother is sick, and bathing in a mud pool so that only their head is poking out. Their head lays, with no energy, on the edge of the pool.
 
-![story/dialog_trees/Mother0.drawio.png](https://github.com/Luca-Skyline/fantasy-game-2024/blob/17155b7d6565045317688389e32e4f74a4987e3d/story/dialog_trees/Mother0.drawio.png))
+![story/dialog_trees/Mother0.drawio.png](https://github.com/Luca-Skyline/fantasy-game-2024/blob/17155b7d6565045317688389e32e4f74a4987e3d/story/dialog_trees/Mother0.drawio.png)
 
-However, there's some unexpected guests that followed Yldra - he must not have been quite careful enough when he was out and about.
+There's some unexpected guests that followed Yldra - the young Dragon must not have been quite careful enough when he was out and about.
 
-A hunting party of two dozen adventurers, ever thirsty for dragon treasure come running through the entry passage, flooding the room and surrounding the dragons, making unintelligble jests in the human language. Yldra knows enough, though, to know they're not getting out of there alive. Knowing that she must protect her son, his mother tells him:
-> "Go, Yldra! Get out through the back tunnel and fly to the **tallest peak in a land of fire**. There's a friend there, and you'll be safe. I'll find you there."
+A hunting party of two dozen adventurers, ever thirsty for dragon treasure come running through the entry passage, flooding the room and surrounding the dragons, making unintelligble jests in the human language. Yldra knows enough, though, to know they're not getting out of there alive. Knowing that they must protect their son, Yldra's mother tells the baby Dragon:
 
-(This is a reference to the volcano biome (see above)). On his way out of the cave though, he encounters a heroic adventurer from the land of men named Stragnar Lightningmore. The player is given a short tutorial on their character as they enter combat with Stragnar but inevitably loses for the player has little in the way of the power or might. He is able to escape, but barely. He finds a place to hide nearby and waits to see his mother defeat the party, but agonizing roars are not a good a sign. Not long after the flashes of his mother's breath weapon subside, the band of adverturers emerge from the cave, before fleeing into the forest. The wound on his wing means he can't fly, so he must navigate the forest on foot.
+> "Go, Yldra! Get out through the back tunnel and fly to the Eastern Hearth: the **tallest peak in a land of fire**. There's a friend there, and you'll be safe. I'll find you there."
+
+(This is a reference to the volcano biome (see above)). 
+On their way out of the cave, Yldra encounters a heroic adventurer from the land of men named Stragnar Lightningmore. The player is given a short tutorial on their character as they enter combat with Stragnar but inevitably loses for the player has little in the way of the power or might. They are able to escape, but barely. They find a place to hide nearby and wait to see their mother defeat the party, but agonizing roars are not a good a sign. Not long after the flashes of Yldra's mother's breath weapon subside, the band of adverturers emerge from the cave, before fleeing into the forest. The wound on Yldra's wing means they can't fly, so they must navigate the forest on foot.
+
+Following the beginning scene:
+The player is given back control over their character and may go anywhere they wish. If they head back into the cave and have audio on, they hear their mother's voice echoing in distant chambers: "Tallest peak in a land of fire."
+
