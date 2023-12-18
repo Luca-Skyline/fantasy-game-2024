@@ -142,7 +142,7 @@ Adjacent Biomes:
 ### Introduction
 A young wyrmling named Yldra was sent out by their mother to gather Willow for dinner (the purple dragons are omniverous) and is on their way home. This is the opening scene - Yldra flying low above the **forest** biome. They then descend into their mother's "lair" / cave and enters. Yldra's mother is sick, and bathing in a mud pool so that only their head is poking out. Their head lays, with no energy, on the edge of the pool.
 
-![story/dialog_trees/Mother0.drawio.png](https://github.com/Luca-Skyline/fantasy-game-2024/blob/17155b7d6565045317688389e32e4f74a4987e3d/story/dialog_trees/Mother0.drawio.png)
+![mother0](https://github.com/Luca-Skyline/fantasy-game-2024/blob/43e29cb6798a5024d2289eb518944c02e4452e75/story/dialog_trees/Mother0.drawio.png)
 
 There's some unexpected guests that followed Yldra - the young Dragon must not have been quite careful enough when he was out and about.
 
