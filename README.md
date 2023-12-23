@@ -24,4 +24,6 @@ A lost dragon wyrmling must set out on a mighty adventure to escape the humans w
 
 For the script (planning, lore, locations, dialog, etc.) click [here](https://github.com/Luca-Skyline/fantasy-game-2024/blob/main/story/dragon_story.md)
 
+![map image](https://github.com/Luca-Skyline/fantasy-game-2024/blob/1d73cee794a54baa48119f62c28113e9ef389507/story/map.jpg)
+
 ### To-do list:
