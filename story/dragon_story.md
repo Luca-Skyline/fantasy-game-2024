@@ -156,5 +156,8 @@ A hunting party of two dozen adventurers, ever thirsty for dragon treasure come 
 On their way out of the cave, Yldra encounters a heroic adventurer from the land of men named Stragnar Lightningmore. The player is given a short tutorial on their character as they enter combat with Stragnar but inevitably loses for the player has little in the way of the power or might. They are able to escape, but barely. They find a place to hide nearby and wait to see their mother defeat the party, but agonizing roars are not a good a sign. Not long after the flashes of Yldra's mother's breath weapon subside, the band of adverturers emerge from the cave, before fleeing into the forest. The wound on Yldra's wing means they can't fly, so they must navigate the forest on foot.
 
 Following the beginning scene:
-The player is given back control over their character and may go anywhere they wish. If they head back into the cave and have audio on, they hear their mother's voice echoing in distant chambers: "Tallest peak in a land of fire."
+The player is given back control over their character and may go anywhere they wish. If they head back into the cave and have audio on, they hear their mother's voice echoing in distant chambers: "Eastern Hearth. Tallest peak in a land of fire."
 
+Choosing to go North will lead to the player transitioning into the Tundra. The player cannot go far East because of the sea. The player can head South and will encounter a human road (which they can follow in either direction). At this point they can continue South and will encounter Secret Lake or Tio Town. 
+
+If they chose to go East (most likely) they soon reach a small clearing with a lake. There, they find a small "psuedodragon" who has come from the North in search of help. 
