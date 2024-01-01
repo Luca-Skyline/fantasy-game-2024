@@ -129,7 +129,7 @@ Adjacent Biomes:
 >_The strongest of us and still the weakest_ <br>
 >_Will rise like a pheonix from the ash_ <br>
 >_A thousand thousand dragons_ <br>
->_With the roar of a yet a child_ <br>
+>_With the roar of but a child_ <br>
 >
 >_From the smoldering ash of Dragonkind_ <br>
 >_The Dragonscape will be forged a new_ <br>
