@@ -162,3 +162,5 @@ Choosing to go North will lead to the player transitioning into the Tundra. The 
 
 If they chose to go East (most likely) they soon reach a small clearing with a lake. There, they find a small "psuedodragon" named Xandrelix who has come from the North in search of help.
 ![xandrelix0](https://github.com/Luca-Skyline/fantasy-game-2024/blob/7e38c69baec098426c9da21d0a9bc0d1668f37c6/story/dialog_trees/xandrelix0.drawio)
+
+More to come...
