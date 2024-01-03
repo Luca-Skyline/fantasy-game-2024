@@ -160,4 +160,5 @@ The player is given back control over their character and may go anywhere they w
 
 Choosing to go North will lead to the player transitioning into the Tundra. The player cannot go far East because of the sea. The player can head South and will encounter a human road (which they can follow in either direction). At this point they can continue South and will encounter Secret Lake or Tio Town. 
 
-If they chose to go East (most likely) they soon reach a small clearing with a lake. There, they find a small "psuedodragon" who has come from the North in search of help. 
+If they chose to go East (most likely) they soon reach a small clearing with a lake. There, they find a small "psuedodragon" named Xandrelix who has come from the North in search of help.
+![xandrelix0](https://github.com/Luca-Skyline/fantasy-game-2024/blob/7e38c69baec098426c9da21d0a9bc0d1668f37c6/story/dialog_trees/xandrelix0.drawio)
