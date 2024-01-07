@@ -168,8 +168,19 @@ After talking to Xandrelix, a forest creature attacks them in the clearing.
 Xandrelix:
 > "Yikes, what is that! It looks... dangerous!"
 
-After that, the player may decide to head North (to the Tundra and help) or continue [East to the Plains](/story/dragon_story.md).
+Beating this creature provides a health buff. Xandrelix flies away disappearing southward.
 
-### Frostfang_In_Trouble
+Xandrelix: 
+> "Yldra... you really can't roar? Weird."
 
-If the player heads 
+After that, the player may decide to head North (to the Tundra and help) or continue [East to the Plains](https://github.com/Luca-Skyline/fantasy-game-2024/blob/main/story/dragon_story.md#frostfang_in_trouble).
+
+### Frostfang's In Trouble
+
+(If the player heads north shortly after receving the news (before they go to any other of the dungeons).
+
+There are several humans towns that the character encounters on the path up - regradless of whether that's on the human path or through the Tundra directly from the forest. These towns are perched high on bluffs, out of the reach of the injured dragon, and launch rocks at the poor guy so he must avoid them or have really good timed attacks on the rocks. One of them is a ghost town, which oddly doesn't launch anything. There's also a ghost sitting at the base of the bluff, which provides a riddle to the young dragon. If Yldra gets it right, the ghost will tell it where the white Dragon lives. If the young dragon gets it wrong, the ghost attacks.
+
+Ghost:
+
+> 
