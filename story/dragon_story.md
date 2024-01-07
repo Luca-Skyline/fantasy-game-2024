@@ -168,7 +168,7 @@ After talking to Xandrelix, a forest creature attacks them in the clearing.
 Xandrelix:
 > "Yikes, what is that! It looks... dangerous!"
 
-After that, the player may decide to head North (to the Tundra and help) or continue [East to the Plains](/###Frostfang_In_Trouble).
+After that, the player may decide to head North (to the Tundra and help) or continue [East to the Plains](/story/dragon_story.md).
 
 ### Frostfang_In_Trouble
 
