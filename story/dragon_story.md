@@ -158,9 +158,18 @@ On their way out of the cave, Yldra encounters a heroic adventurer from the land
 Following the beginning scene:
 The player is given back control over their character and may go anywhere they wish. If they head back into the cave and have audio on, they hear their mother's voice echoing in distant chambers: "Eastern Hearth. Tallest peak in a land of fire."
 
-Choosing to go North will lead to the player transitioning into the Tundra. The player cannot go far East because of the sea. The player can head South and will encounter a human road (which they can follow in either direction). At this point they can continue South and will encounter Secret Lake or Tio Town. 
+Choosing to go North will lead to the player transitioning into the Tundra. The player cannot go far West because of the sea. The player can head South and will encounter a human road (which they can follow in either direction). At this point they can continue South and will encounter Secret Lake or Tio Town. 
 
 If they chose to go East (most likely) they soon reach a small clearing with a lake. There, they find a small "psuedodragon" named Xandrelix who has come from the North in search of help.
 ![xandrelix0](https://github.com/Luca-Skyline/fantasy-game-2024/blob/f0a4c819e352fa00a2dcda55eaa456b790d26dcd/story/dialog_trees/xandrelix0.png)
 
-More to come...
+After talking to Xandrelix, a forest creature attacks them in the clearing.
+
+Xandrelix:
+> "Yikes, what is that! It looks... dangerous!"
+
+After that, the player may decide to head North (to the Tundra and help) or continue [East to the Plains](/###Frostfang_In_Trouble).
+
+### Frostfang_In_Trouble
+
+If the player heads 
